@@ -1,0 +1,14 @@
+{
+  "1337": "Common backdoor / 'leet' port",
+  "2745": "Bagle worm backdoor",
+  "3127": "MyDoom backdoor",
+  "4444": "Metasploit default listener / Blaster worm",
+  "5554": "Sasser worm FTP server",
+  "6666": "Commonly used by IRC bots / trojans",
+  "6667": "IRC - frequently used for botnet command and control",
+  "9996": "Sasser worm remote shell",
+  "12345": "NetBus trojan",
+  "27374": "SubSeven trojan",
+  "31337": "Back Orifice trojan",
+  "54321": "Back Orifice 2000 / reverse-shell default"
+}
